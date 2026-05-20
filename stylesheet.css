@@ -1,0 +1,43 @@
+.coinflip-container {
+	min-width: 28px;
+	min-height: 28px;
+	padding: 0 4px;
+}
+
+.coinflip-coin {
+	width: 24px;
+	height: 24px;
+	border-radius: 999px;
+	border: 1px solid rgba(255, 255, 255, 0.4);
+	box-shadow: inset 0 0 3px rgba(255, 255, 255, 0.6), 0 2px 3px rgba(0,0,0,0.4);
+}
+
+.coinflip-heads {
+	background-gradient-direction: vertical;
+	background-gradient-start: #ffdf70;
+	background-gradient-end: #b47009;
+	color: #451a03;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.coinflip-tails {
+	background-gradient-direction: vertical;
+	background-gradient-start: #f8fafc;
+	background-gradient-end: #64748b;
+	color: #0f172a;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.7);
+}
+
+.coinflip-face {
+	font-size: 14px;
+	font-weight: 800;
+	text-align: center;
+}
+
+.coinflip-shadow {
+	width: 16px;
+	height: 6px;
+	background-color: rgba(0, 0, 0, 0.35);
+	border-radius: 50%;
+	margin-bottom: 2px;
+}
