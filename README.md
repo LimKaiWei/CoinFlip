@@ -13,3 +13,7 @@ Files:
 - `extension.js` — main extension code
 - `metadata.json` — extension metadata
 - `stylesheet.css` — styling
+
+## Demo
+
+![Demo](media/demo.gif)
