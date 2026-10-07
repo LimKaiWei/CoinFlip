@@ -2,11 +2,13 @@
 
 Simple GNOME Shell extension for a coin flip widget.
 
+Supports GNOME Shell 49 and 50.
+
 Install locally:
 
 1. Clone or copy this folder to `~/.local/share/gnome-shell/extensions/coinflip@limkaiwei.github.io`
-2. Restart GNOME Shell (Alt+F2, then `r`) or log out and back in.
-3. Enable the extension with `gnome-extensions` or Extensions app.
+2. Log out and back in so GNOME Shell loads the extension and its current compatibility metadata.
+3. Enable the extension with `gnome-extensions enable coinflip@limkaiwei.github.io` or the Extensions app.
 
 Files:
 

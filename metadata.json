@@ -3,7 +3,8 @@
   "description": "Flip a coin",
   "uuid": "coinflip@limkaiwei.github.io",
   "shell-version": [
-    "49"
+    "49",
+    "50"
   ],
   "url": ""
 }
